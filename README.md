@@ -1,5 +1,5 @@
 
-Data analysis codes in python usded in Black Hole Feedback Group at SHAO (http://cluster.shao.ac.cn/~fguo/index.html).
+Data analysis codes in python.
 
 1. ascii:  for ascii output of the 'Zeus2D' code (crjet.f, fermi.f......).  
 
